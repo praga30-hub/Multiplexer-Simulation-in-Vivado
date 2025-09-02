@@ -6,7 +6,7 @@
 <br>
 **Apparatus Required:** <br>
 <br>
-&emsp;&emsp;Vivado 2023.1<br>
+&emsp;&emsp;Vivado 2025.1<br>
 <br>
 **Procedure:** <br>
 <br>
@@ -185,7 +185,8 @@ Time=18 | s[1]=0 s[0]=0 | Inputs: a[0]=1 a[1]=1 a[2]=1 a[3]=1
 ```
 **Output waveform** <br>
 <br>
-![Screenshot 2024-11-15 111538](https://github.com/user-attachments/assets/4f55fc4a-fadd-4eb0-8049-0adffc938892)
+<img width="1026" height="533" alt="image" src="https://github.com/user-attachments/assets/d7ee2808-4b20-4145-a9b9-3c8faaae6df5" />
+
 
 <br>
 
