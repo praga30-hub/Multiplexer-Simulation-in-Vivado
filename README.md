@@ -186,13 +186,17 @@ Time=18 | s[1]=0 s[0]=0 | Inputs: a[0]=1 a[1]=1 a[2]=1 a[3]=1
 **Output waveform** <br>
 <br>
 **GATE-LEVEL MODELING**
-<img width="1037" height="536" alt="image" src="https://github.com/user-attachments/assets/b6c5ede5-2874-4250-bbb6-d820ab14ad0e" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 131702" src="https://github.com/user-attachments/assets/7b8c2d7e-e5ee-4a47-9fff-71758a553674" />
+
 **DATAFLOW MODELING**
-<img width="1032" height="527" alt="image" src="https://github.com/user-attachments/assets/d5111903-66bd-494b-8594-f3f069496025" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 130858" src="https://github.com/user-attachments/assets/2c855c9e-f167-40aa-b3d6-d1d6de878a6f" />
+
 **BEHAVIRAL LEVEL MODELING**
-<img width="1026" height="529" alt="image" src="https://github.com/user-attachments/assets/0b8a7864-8795-4aee-a31d-beaec32dfb7f" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 132535" src="https://github.com/user-attachments/assets/9a3569be-537c-4456-8b8e-221f37dd0210" />
+
 **STRUCTURAL LEVEL MODELING**
-<img width="1036" height="538" alt="image" src="https://github.com/user-attachments/assets/0bb82384-b18c-4c14-ab68-5175f08ea555" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 133707" src="https://github.com/user-attachments/assets/5c16d201-40a1-41a9-a301-8a05d4ec815f" />
+
 
 
 <br>
