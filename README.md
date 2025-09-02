@@ -185,7 +185,14 @@ Time=18 | s[1]=0 s[0]=0 | Inputs: a[0]=1 a[1]=1 a[2]=1 a[3]=1
 ```
 **Output waveform** <br>
 <br>
-<img width="1026" height="533" alt="image" src="https://github.com/user-attachments/assets/d7ee2808-4b20-4145-a9b9-3c8faaae6df5" />
+**GATE-LEVEL MODELING**
+<img width="1037" height="536" alt="image" src="https://github.com/user-attachments/assets/b6c5ede5-2874-4250-bbb6-d820ab14ad0e" />
+**DATAFLOW MODELING**
+<img width="1032" height="527" alt="image" src="https://github.com/user-attachments/assets/d5111903-66bd-494b-8594-f3f069496025" />
+**BEHAVIRAL LEVEL MODELING**
+<img width="1026" height="529" alt="image" src="https://github.com/user-attachments/assets/0b8a7864-8795-4aee-a31d-beaec32dfb7f" />
+**STRUCTURAL LEVEL MODELING**
+<img width="1036" height="538" alt="image" src="https://github.com/user-attachments/assets/0bb82384-b18c-4c14-ab68-5175f08ea555" />
 
 
 <br>
